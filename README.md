@@ -3,6 +3,9 @@
 ### Welcome to the To-Do List project! 🎉 This is a super fun and fancy to-do list application written in Python using the Flask framework. It's the perfect tool to manage your tasks with style. 😎✨
 
 
+![](https://raw.githubusercontent.com/Revisto/to-do-list/master/assets/preview.png)
+
+
 ## Features ✨
 - ✍️ Add Tasks: Easily add tasks to your to-do list. From simple tasks to super important ones, this app has got you covered! Just type in your task and hit that Submit button. 📝🔥
 
